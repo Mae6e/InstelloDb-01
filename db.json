@@ -1,0 +1,200 @@
+{
+  "users": [
+{
+"id":"343b8efc-1099-4796-911d-539d6a5e5aa1",
+  "firstname":"سجاد",
+  "lastname":"سعادت",
+  "email":"maede@gmail.com",
+  "password":"123123",
+"image": "https://i.ibb.co/PT7zGST/avatar-2.jpg",
+ "posts":16,
+"followers":150,
+"following" : 230
+}
+  ],
+  "messages": [
+{
+"id":"343b8efc-1099-4796-911d-539d6a5e5aa2",
+  "senderfullname":"وحید محمدی",
+  "description":"سلام. لطفا با من تماس بگیرید",
+  "date":"9:33 بعدازظهر", 
+  "image": "https://i.ibb.co/vZ7vL3Q/avatar-1.jpg"
+},
+{
+"id":"343b8efc-1099-4796-911d-539d6a5e5aa4",
+  "senderfullname":"علی مومنی",
+  "description":"پروژه در حال تست می باشد",
+  "date":"دوشنبه",
+  "image":"https://i.ibb.co/MS3hjY2/avatar-3.jpg"
+},
+{
+"id":"343b8efc-1099-4796-911d-539d6a5e5aa5",
+  "senderfullname":"علی رضایی",
+  "description":"متن برای من ارسال کنید",
+  "date":"دوشنبه",
+ "image":"https://i.ibb.co/mRC55Vt/avatar-7.jpg"
+},
+{
+"id":"343b8efc-1099-4796-911d-539d6a5e5aa9",
+  "senderfullname":"فرهاد مجیدی",
+  "description":"با من تماس بگیرید",
+  "date":"سه شنبه",
+ "image":"https://i.ibb.co/vZSxwRV/avatar-4.jpg"
+},
+{
+"id":"343b8efc-1099-4796-911d-539d6a5e5aa8",
+  "senderfullname":"بهار محمدی",
+  "description":"از اینکه پیام دادید متشکرم",
+  "date":"چهارشنبه",
+  "image":"https://i.ibb.co/tLspRDP/avatar-6.jpg"
+}
+  ],
+ "notifications": [
+{
+"id":"343b8efc-1099-4796-911d-539d6a5e5aa2",
+  "senderfullname":"وحید محمدی",
+  "description":"درخواست شما را تایید کرده است",
+  "date":"2 دقیقه قبل", 
+  "image": "https://i.ibb.co/vZ7vL3Q/avatar-1.jpg"
+},
+{
+"id":"343b8efc-1099-4796-911d-539d6a5e5aa4",
+  "senderfullname":"علی مومنی",
+  "description":"پروفایل شما را مشاهده کرده است",
+  "date":"3 ساعت قبل",
+  "image":"https://i.ibb.co/MS3hjY2/avatar-3.jpg"
+},
+{
+"id":"343b8efc-1099-4796-911d-539d6a5e5aa5",
+  "senderfullname":"علی رضایی",
+  "description":"درخواست شما را تایید کرده است",
+  "date":"4 ساعت قبل",
+ "image":"https://i.ibb.co/mRC55Vt/avatar-7.jpg"
+},
+{
+"id":"343b8efc-1099-4796-911d-539d6a5e5aa9",
+  "senderfullname":"فرهاد مجیدی",
+  "description":"درخواست شما را رد کرده است",
+  "date":"10 ساعت قبل",
+ "image":"https://i.ibb.co/vZSxwRV/avatar-4.jpg"
+},
+{
+"id":"343b8efc-1099-4796-911d-539d6a5e5aa8",
+  "senderfullname":"بهار محمدی",
+  "description":"پست شما را لایک کرده است",
+  "date":"دیروز",
+  "image":"https://i.ibb.co/tLspRDP/avatar-6.jpg"
+}
+  ],
+
+ "explorerposts": [
+{
+"id":"343b8efc-1099-4796-911d-539d6a5e5aa2",
+  "fullname":"وحید محمدی", 
+  "userimage": "https://i.ibb.co/vZ7vL3Q/avatar-1.jpg",
+"numberofcomment":19,
+"numberoflike":118,
+"file":"https://i.ibb.co/GWPpw05/4.jpg",
+"title":"",
+"lastcomment":"",
+"type":"photo"
+},
+{
+"id":"343b8efc-1099-4796-911d-539d6a5e5aa6",
+  "fullname":"بهار محمدی",
+  "userimage":"https://i.ibb.co/tLspRDP/avatar-6.jpg",
+"numberofcomment":7,
+"numberoflike":118,
+"file":"https://i.ibb.co/r6bZN26/img2.jpg",
+"title":"یکی از بهترین تجربه های سفر با دوستان در سال جدید",
+"lastcomment":"خوشحال میشم من هم با تیم شما آشنا شوم تا در سفرهای آینده شما را همراهی کنم.",
+"type":"video"
+},
+{
+"id":"343b8efc-1099-4796-911d-539d6a5e5aa7",
+  "fullname":"علی مومنی",
+  "userimage":"https://i.ibb.co/MS3hjY2/avatar-3.jpg",
+"numberofcomment":20,
+"numberoflike":118,
+"file":"https://i.ibb.co/Zx6yvm5/16.jpg",
+"title":"",
+"lastcomment":"",
+"type":"photo"
+
+},
+{
+"id":"343b8efc-1099-4796-911d-539d6a5e5aa8",
+  "fullname":"علی رضایی",
+ "userimage":"https://i.ibb.co/mRC55Vt/avatar-7.jpg ",
+"numberofcomment":35,
+"numberoflike":118,
+"file":"https://i.ibb.co/NW65Fqk/img6.jpg",
+"title":"",
+"lastcomment":"",
+"type":"photo"
+},
+{
+"id":"343b8efc-1099-4796-911d-539d6a5e5aa9",
+  "fullname":"فرهاد مجیدی",
+ "userimage":"https://i.ibb.co/mRC55Vt/avatar-4.jpg",
+"numberofcomment":55,
+"numberoflike":118,
+"file":"https://i.ibb.co/FxpwKpv/img4.jpg",
+"title":"",
+"lastcomment":"",
+"type":"photo"
+},
+{
+"id":"343b8efc-1099-4796-911d-539d6a5e5aa3",
+  "fullname":"علی مومنی",
+  "userimage":"https://i.ibb.co/MS3hjY2/avatar-3.jpg",
+"numberofcomment":20,
+"numberoflike":118,
+"file":"https://i.ibb.co/X23CySq/img7.jpg",
+"title":"",
+"lastcomment":"",
+"type":"photo"
+
+},
+{
+"id":"343b8efc-1099-4796-911d-539d6a5e5aa5",
+  "fullname":"علی رضایی",
+ "userimage":"https://i.ibb.co/mRC55Vt/avatar-7.jpg",
+"numberofcomment":35,
+"numberoflike":118,
+"file":"https://i.ibb.co/N2JTfR7/9.jpg",
+"title":"",
+"lastcomment":"",
+"type":"photo"
+},
+{
+"id":"343b8efc-1099-4796-911d-539d6a5e5aa1",
+  "fullname":"وحید محمدی", 
+  "userimage": "https://i.ibb.co/vZ7vL3Q/avatar-1.jpg",
+"numberofcomment":19,
+"numberoflike":118,
+"file":"https://i.ibb.co/0VcjY4K/img3.jpg",
+"title":"",
+"lastcomment":"",
+"type":"photo"
+},
+{
+"id":"343b8efc-1099-4796-911d-539d6a5e5aa4",
+  "fullname":"علی مومنی",
+  "userimage":"https://i.ibb.co/MS3hjY2/avatar-3.jpg",
+"numberofcomment":20,
+"numberoflike":118,
+"file":"https://i.ibb.co/3WD6M8y/img11.jpg",
+"title":"",
+"lastcomment":"",
+"type":"photo"
+
+}],
+"favoritetopic" :[
+{"title":"سفر"},
+{"title":"موزیک"},
+{"title":"تکنولوژی"},
+{"title":"خرید کردن"},
+{"title":"آشپزی"}
+]
+}
